@@ -1,0 +1,18 @@
+- 🌲 Why react? why it is better than other libraries and frameworks?
+- 🌲 Virtual DOM
+- 🌲 JSX and its advantage?
+- 🌲 Reconciliation
+- 🌲 State and Props
+- 🌲 Hooks-related question
+- 🌲 useMemo vs useCallback
+- 🌲 Code Splitting
+- 🌲 Accessibility
+- 🌲 Unidirectional behavior of React
+- 🌲 Pure Components vs HOC
+- 🌲 Security (CSRF and XSRF)
+- 🌲 use cases of useEffect in different scenarios
+- 🌲 Pure Components vs HOC
+- 🌲 Optimization
+- 🌲 Lazy loading
+- 🌲 Class-based vs Functional based component
+- 🌲 SEO in react
